@@ -33,5 +33,5 @@
 <!-- [![Top Contributed Repositories](https://github-contributor-stats.vercel.app/api?username=aitchhhan&limit=4&theme=dracula&combine_all_yearly_contributions=true)](https://github.com/XPEnology-Community/github-contributor-stats) -->
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/aitchhhan"/>
+  <img src="https://render.gitanimals.org/farms/aitchhan"/>
 </a>
